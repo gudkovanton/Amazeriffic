@@ -1,0 +1,13 @@
+body {
+background: lightcyan;
+width: 800px;
+margin: auto;
+}
+h1 {
+font-family: 'Denk One', sans-serif;
+}
+p {
+color: gray;
+border: 1px solid gray;
+padding: 10px;
+}
